@@ -2,7 +2,7 @@
 
 ## Overview of Project
 The monkeypox virus causes monkeypox, an uncommon condition that resembles smallpox. Although it has been spotted in other parts of the world, it is primarily prevalent 
-in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis with of the monkey pox outbreak with a dataset obtained from Kaggle.
+in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis of the monkey pox outbreak with a dataset obtained from Kaggle.
 
 ### SQL Queries were used to gain insights from the dataset using the questions below
 
