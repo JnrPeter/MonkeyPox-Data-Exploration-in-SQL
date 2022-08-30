@@ -1,4 +1,4 @@
-# Exploratory Analysis of Monkey Pox in SQL
+# Exploratory Analysis of Monkey Pox in MySQL
 
 ## Overview of Project
 The monkeypox virus causes monkeypox, an uncommon condition that resembles smallpox. Although it has been spotted in other parts of the world, it is primarily prevalent 
