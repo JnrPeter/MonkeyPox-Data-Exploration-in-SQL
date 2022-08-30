@@ -1,0 +1,1133 @@
+Country_ISO3,Country,City,Status,Age,Gender,Date_onset,Date_confirmation,Symptoms,Confirmation_method
+GBR,England,London,confirmed,Unknown,Unknown,2022-04-29,2022-05-06,rash,RT-PCR
+GBR,England,London,confirmed,Unknown,Unknown,2022-05-05,2022-05-12,rash,RT-PCR
+GBR,England,London,confirmed,Unknown,Unknown,2022-04-30,2022-05-13,vesicular rash,RT-PCR
+GBR,England,London,confirmed,Unknown,male,0000-00-00,2022-05-15,vesicular rash,Unknown
+GBR,England,London,confirmed,Unknown,male,0000-00-00,2022-05-15,vesicular rash,Unknown
+GBR,England,London,confirmed,Unknown,male,0000-00-00,2022-05-15,vesicular rash,Unknown
+GBR,England,Newcastle,confirmed,Unknown,male,0000-00-00,2022-05-15,vesicular rash,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-17,"skin lesions, ulcerative lesions",Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-17,"skin lesions, ulcerative lesions",Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-17,"skin lesions, ulcerative lesions",Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,"skin lesions, ulcerative lesions",Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,"skin lesions, ulcerative lesions",Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-18,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-19,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-19,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-19,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-19,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-19,ulcerative lesions,Unknown
+PRT,Portugal,Lisbon,confirmed,20-44,male,0000-00-00,2022-05-19,ulcerative lesions,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+USA,United States,Boston,confirmed,Unknown,male,0000-00-00,2022-05-18,Unknown,Unknown
+GBR,England,London,confirmed,Unknown,Unknown,0000-00-00,2022-05-18,Unknown,Unknown
+GBR,England,South East,confirmed,Unknown,Unknown,0000-00-00,2022-05-18,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Unknown,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-23,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-26,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-26,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-26,"oral and genital ulcers, fever",Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+SWE,Sweden,Stockholm,confirmed,Unknown,male,0000-00-00,2022-05-19,Unknown,Unknown
+ITA,Italy,Rome,confirmed,40-44,male,0000-00-00,2022-05-19,lesions,Molecular and gene sequencing
+ESP,Spain,Gran Canaria,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,2022-04-29,2022-05-26,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-26,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-26,"oral and genital ulcers, fever",Unknown
+CAN,Canada,Montreal,confirmed,30-59,male,0000-00-00,2022-05-26,"oral and genital ulcers, fever",Unknown
+ITA,Italy,Rome,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+ITA,Italy,Rome,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+FRA,France,île-de-France,confirmed,25-29,male,0000-00-00,2022-05-19,Unknown,qPCR or RT-PCR
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-19,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-19,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-19,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-44,male,0000-00-00,2022-05-23,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+BEL,Belgium,Antwerp,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+BEL,Belgium,Antwerp,confirmed,30-34,male,0000-00-00,2022-05-19,"perianal papules, inguinal adenopathy",Unknown
+USA,United States,New York City,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-19,genital ulcers,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-19,genital ulcers,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,genital ulcers,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,genital ulcers,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,genital ulcers,Unknown
+AUS,Australia,Sydney,confirmed,40-49,male,0000-00-00,2022-05-20,Unknown,Unknown
+AUS,Australia,Melbourne,confirmed,30-39,male,2022-05-09,2022-05-20,genital rash,PCR
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+DEU,Germany,Munich,confirmed,25-29,male,0000-00-00,2022-05-19,Slight swallowing difficulties and an elevated temperature,Unknown
+ESP,Spain,Costa del Sol,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-20,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Tenerife,confirmed,Unknown,male,0000-00-00,2022-05-24,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,female,0000-00-00,0000-00-00,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-20,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ISR,Israel,Tel Aviv,confirmed,30-39,male,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Barcelona,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,50-59,male,0000-00-00,2022-05-20,Unknown,Unknown
+CHE,Switzerland,Bern,confirmed,Unknown,male,0000-00-00,2022-05-21,"fever, rash",Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,40-49,male,0000-00-00,2022-05-26,Unknown,Unknown
+GRC,Greece,Kefalonia,discarded,Unknown,male,0000-00-00,0000-00-00,skin rashes,Unknown
+ISR,Israel,Ashkelon,discarded,25-29,male,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Aragon,confirmed,Unknown,male,0000-00-00,2022-05-26,Unknown,Unknown
+AUT,Austria,Vienna,confirmed,35-39,male,0000-00-00,2022-05-23,"fever, lesions",Unknown
+BEL,Belgium,Liège,confirmed,Unknown,male,0000-00-00,2022-05-21,Unknown,RT-PCR
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-21,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ARG,Argentina,Buenos Aires,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,"pustules, fever",Unknown
+DNK,Denmark,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+ITA,Italy,Arezzo,confirmed,30-34,male,2022-05-15,2022-05-23,skin lesions,Unknown
+ESP,Spain,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Valencia,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Valencia,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,male,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,male,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,male,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Gran Canaria,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-23,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+DEU,Germany,Ortenaukreis,confirmed,Unknown,male,0000-00-00,2022-05-23,"fever, cough, skin lesions",RT-PCR
+ESP,Spain,Fuerteventura,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+FRA,France,île-de-France,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,qPCR or RT-PCR
+FRA,France,île-de-France,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,qPCR or RT-PCR
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+MAR,Morocco,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+MAR,Morocco,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+MAR,Morocco,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-21,Unknown,Unknown
+DEU,Germany,Jerichower Land,confirmed,Unknown,male,0000-00-00,2022-05-23,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-26,Unknown,Unknown
+SVN,Slovenia,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-24,Unknown,PCR
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-23,Unknown,Unknown
+CZE,Czech Republic,Prague,confirmed,Unknown,female,0000-00-00,2022-05-24,Unknown,Electron microscopy
+FRA,France,Lyon,confirmed,Unknown,male,0000-00-00,2022-05-24,Unknown,Unknown
+ESP,Spain,Malaga,confirmed,Unknown,male,0000-00-00,2022-05-30,Unknown,Unknown
+ESP,Spain,Malaga,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Seville,confirmed,Unknown,male,0000-00-00,2022-05-27,Unknown,Unknown
+ESP,Spain,Cadiz,confirmed,Unknown,male,0000-00-00,2022-05-27,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,25-29,female,0000-00-00,2022-05-24,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+CHE,Switzerland,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-24,Unknown,RT-PCR
+DEU,Germany,Frankfurt,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,RT-PCR
+ITA,Italy,Lombardy,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+ITA,Italy,Palermo,discarded,15-19,male,0000-00-00,0000-00-00,"fever, pustules on hands, body pains",Unknown
+ITA,Italy,Canicatti,discarded,30-34,male,0000-00-00,0000-00-00,"fever, pustules on hands, body pains",Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Gran Canaria,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+FRA,France,Toulouse,confirmed,Unknown,male,0000-00-00,2022-05-24,Unknown,qPCR or RT-PCR
+PRT,Portugal,Unknown,confirmed,<40,male,0000-00-00,2022-05-24,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,<40,male,0000-00-00,2022-05-24,Unknown,Unknown
+DEU,Germany,Cologne,confirmed,55-59,male,0000-00-00,2022-05-24,Unknown,Unknown
+DEU,Germany,Cologne,confirmed,35-39,male,0000-00-00,2022-05-24,Unknown,Unknown
+DEU,Germany,Cologne,confirmed,45-49,male,0000-00-00,2022-05-24,Unknown,Unknown
+DEU,Germany,Munich,confirmed,30-34,male,0000-00-00,2022-05-24,Unknown,Unknown
+DEU,Germany,Ansbach,confirmed,Unknown,male,0000-00-00,2022-05-24,Unknown,Unknown
+DEU,Germany,Ortenaukreis,confirmed,Unknown,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,RT-PCR
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,RT-PCR
+FIN,Finland,Hus,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,"blisters, high fever",Sequencing
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Valladolid,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ISR,Israel,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ITA,Italy,Rome,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ITA,Italy,Rome,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-25,Unknown,Unknown
+ESP,Spain,Unknown,discarded,20-24,male,0000-00-00,0000-00-00,Unknown,Unknown
+SWE,Sweden,Västra Götaland,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,Unknown
+GBR,Wales,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,Northern Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,qPCR or RT-PCR
+USA,United States,Unknown,confirmed,Unknown,female,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-26,Unknown,Unknown
+CZE,Czech Republic,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CZE,Czech Republic,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CZE,Czech Republic,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CZE,Czech Republic,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+SVN,Slovenia,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-25,Unknown,PCR
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+SDN,Sudan,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,genital ulcer lesions,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,genital ulcer lesions,Unknown
+USA,United States,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-27,Unknown,Unknown
+DNK,Denmark,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-24,Unknown,Unknown
+BOL,Bolivia,Unknown,suspected,25-29,male,0000-00-00,0000-00-00,"muscle aches, fever, skin lesions",Unknown
+CHE,Switzerland,Unknown,confirmed,40-45,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ITA,Italy,Bologna,confirmed,35-39,male,0000-00-00,2022-05-26,blisters,Unknown
+DEU,Germany,Dusseldorf,confirmed,Unknown,male,0000-00-00,2022-05-26,Unknown,RT-PCR
+DEU,Germany,Dusseldorf,confirmed,Unknown,male,0000-00-00,2022-05-26,Unknown,RT-PCR
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+ITA,Italy,Genoa,discarded,20-24,female,0000-00-00,0000-00-00,"fever, skin lesions",Unknown
+ARG,Argentina,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,ulcerative lesions,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-27,Unknown,Unknown
+ITA,Italy,Milan,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+ITA,Italy,Milan,confirmed,Unknown,Unknown,0000-00-00,2022-05-26,Unknown,Unknown
+CHE,Switzerland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+DEU,Germany,Münster,confirmed,30-34,Male,0000-00-00,2022-05-27,Unknown,PCR
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+USA,United States,Denver,confirmed,Unknown,Male,0000-00-00,2022-05-27,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+IRN,Iran,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+IRN,Iran,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+IRN,Iran,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+IRN,Iran,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+IRN,Iran,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+IRN,Iran,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+DEU,Germany,Aachen,confirmed,25-29,male,0000-00-00,2022-05-30,Unknown,Unknown
+ECU,Ecuador,Quito,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+MLT,Malta,Unknown,confirmed,35-39,male,0000-00-00,2022-05-28,Unknown,Unknown
+IRL,Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-27,Unknown,Unknown
+IRL,Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+MEX,Mexico,Unknown,confirmed,50-54,male,0000-00-00,2022-05-28,Unknown,Unknown
+ISR,Israel,Unknown,confirmed,30-34,male,0000-00-00,2022-05-28,Unknown,Unknown
+ITA,Italy,Ancona,discarded,20-24,female,0000-00-00,0000-00-00,"erythema with vesicles and papules, difficulty breathing, headache, fever",Unknown
+PAK,Pakistan,Sukkur,suspected,Oct-14,male,0000-00-00,0000-00-00,Unknown,Unknown
+BEL,Belgium,Brussels,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,qPCR or RT-PCR
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+BEL,Belgium,Brussels,confirmed,Unknown,Unknown,0000-00-00,2022-05-28,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GUF,French Guiana,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+GUF,French Guiana,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Madrid,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+DEU,Germany,Potsdam,confirmed,40-44,male,0000-00-00,2022-05-28,Unknown,Unknown
+THA,Thailand,Nonthaburi,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Nonthaburi,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Nonthaburi,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-29,Unknown,Unknown
+PER,Peru,Piura,discarded,70-74,male,0000-00-00,0000-00-00,"skin lesions, spots on skin, severe anemia",Unknown
+BRA,Brazil,Porto Alegre,suspected,Unknown,male,0000-00-00,0000-00-00,"skin lesions, headaches, enlarged lymph nodes, fever",Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,20-64,male,0000-00-00,2022-05-30,Unknown,Unknown
+ESP,Spain,Malaga,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Malaga,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Malaga,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Cadiz,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Cadiz,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Seville,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Almeria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Almeria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Almeria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+ESP,Spain,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+MYS,Malaysia,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+MYS,Malaysia,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+MYS,Malaysia,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,qPCR or RT-PCR
+SWE,Sweden,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+BRA,Brazil,Fortaleza,suspected,Unknown,male,0000-00-00,0000-00-00,"fever, fatigue, headache, muscle pain",Unknown
+BRA,Brazil,Dionisio Cerqueira,suspected,Unknown,female,2022-05-24,0000-00-00,skin rashes,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,Northern Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-30,Unknown,Unknown
+DEU,Germany,Unknown,confirmed,20-24,male,0000-00-00,2022-05-30,Unknown,Unknown
+DEU,Germany,Hamburg,confirmed,30-34,male,0000-00-00,2022-05-30,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+SWE,Sweden,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,30-34,male,0000-00-00,2022-05-31,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+HUN,Hungary,Unknown,confirmed,35-39,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Dusseldorf,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Dusseldorf,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+NOR,Norway,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Tenerife,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Tenerife,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Tenerife,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Gran Canaria,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Gran Canaria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Gran Canaria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Gran Canaria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Gran Canaria,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Fuerteventura,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+ITA,Italy,Unknown,discarded,Unknown,male,0000-00-00,0000-00-00,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,Unknown,male,0000-00-00,2022-05-29,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ITA,Italy,Lucca,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ITA,Italy,Lucca,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ITA,Italy,Milan,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ITA,Italy,Monza,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ITA,Italy,Monza,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ITA,Italy,Brescia,confirmed,Unknown,male,0000-00-00,2022-05-31,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+CAN,Canada,Toronto,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+CAN,Canada,Toronto,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+DEU,Germany,Cologne,confirmed,25-29,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Cologne,confirmed,40-44,male,0000-00-00,2022-05-31,Unknown,Unknown
+DEU,Germany,Hamburg,confirmed,Unknown,Unknown,0000-00-00,2022-05-31,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+PRY,Paraguay,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,skin lesions,Unknown
+CRI,Costa Rica,Unknown,discarded,20-24,female,2022-05-27,0000-00-00,"fever, outbreak on the skin, hands, and chest",Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-01,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,qPCR or RT-PCR
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+ARE,United Arab Emirates,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+IRL,Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+IRL,Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,United Kingdom,Gibraltar,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+AUS,Australia,Sydney,confirmed,50-59,male,0000-00-00,2022-06-02,Unknown,Unknown
+MAR,Morocco,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+IRL,Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+IRL,Ireland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+SWE,Sweden,Stockholm,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+NLD,Netherlands,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Günzburg,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Coesfeld,confirmed,Unknown,male,0000-00-00,2022-06-02,"Fever, skin rashes",Unknown
+MUS,Mauritius,Unknown,discarded,60-64,male,0000-00-00,0000-00-00,"fever, skin lesions",Unknown
+MUS,Mauritius,Unknown,discarded,65-69,male,0000-00-00,0000-00-00,skin lesions,Unknown
+MUS,Mauritius,Unknown,discarded,Unknown,male,0000-00-00,0000-00-00,skin lesions,Unknown
+BOL,Bolivia,Santa Cruz,suspected,25-29,male,0000-00-00,0000-00-00,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,25-44,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,25-44,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+CZE,Czech Republic,Prague,confirmed,30-34,Unknown,0000-00-00,2022-06-02,"Fever, chills, fatigue, headache, skin lesions",Unknown
+CHE,Switzerland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CHE,Switzerland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+USA,United States,Philadelphia,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+USA,United States,Chicago,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Toronto,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+BRA,Brazil,Unknown,suspected,15-19,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+FIN,Finland,Helsinki,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+HTI,Haiti,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+SVN,Slovenia,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+URY,Uruguay,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+URY,Uruguay,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+URY,Uruguay,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+URY,Uruguay,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+LVA,Latvia,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+USA,United States,New York City,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,male,0000-00-00,2022-06-02,Unknown,Unknown
+ITA,Italy,Unknown,confirmed,20-24,male ,0000-00-00,2022-06-01,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+ESP,Spain,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,England,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,Scotland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+PRT,Portugal,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+GBR,Wales,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Berlin,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,North-Rhine Westphalia,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+DEU,Germany,Niedersachsen,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ESP,Spain,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+BEL,Belgium,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+AUS,Australia,Sydney,confirmed,50-59,male,0000-00-00,2022-06-03,Unknown,Unknown
+NOR,Norway,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-01,"fever, muscle pain, rash",Unknown
+CHE,Switzerland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+CHE,Switzerland,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+USA,United States,Unknown,confirmed,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+Unknown,Canada,Toronto,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+CAN,Canada,Toronto,suspected,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+AUS,Australia,Melbourne,confirmed,30-39,male,0000-00-00,2022-06-02,Unknown,Unknown
+BOL,Bolivia,Challapata,suspected,20-24,male,0000-00-00,0000-00-00,"headache, muscle pain, skin lesions in the area of the lower and outer extremities",Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+FRA,France,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+ITA,Italy,Trento,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+USA,United States,Chicago,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+USA,United States,New York City,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+USA,United States,New York City,confirmed,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+CYM,Cayman Islands,Unknown,suspected,Unknown,Unknown,0000-00-00,0000-00-00,"rash, fever",Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+CAN,Canada,Unknown,confirmed,Unknown,Unknown,0000-00-00,2022-06-02,Unknown,Unknown
+AUS,Australia,Sydney,confirmed,30-39,male,0000-00-00,2022-06-04,Unknown,Unknown
+AUS,Australia,Sydney,suspected,30-39,male,0000-00-00,0000-00-00,Unknown,Unknown
+USA,United States,Unknown,suspected,Unknown,Unknown,0000-00-00,2022-06-03,Unknown,Unknown
+THA,Thailand,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
+THA,Thailand,Unknown,discarded,Unknown,Unknown,0000-00-00,0000-00-00,Unknown,Unknown
