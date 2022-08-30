@@ -1,8 +1,8 @@
 # Exploratory Analysis of Monkey Pox in MySQL
 
 ## Description of Project Files
-- Monkey Pox Data Exploration in MySQL - An SQL file containing all the SQL queries for the Project
-- README.md - A file containing an overview, summary and description of the entire Project.
+- Monkey Pox Data Exploration in MySQL : An SQL file containing all the SQL queries for the Project
+- README.md : A file containing an overview, summary and description of the entire Project.
 
 
 ## Overview of Project
