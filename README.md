@@ -6,6 +6,7 @@ in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis
 
 ### SQL Queries were used to gain insights from the dataset using the questions below
 
+- What is total number of confirmed and suspected cases worldwide?
 - What is the number confirmed cases in each country?
 - What is the number of suspected cases in each country?
 - What is the number of Discarded cases in each country?
