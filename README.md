@@ -1,5 +1,10 @@
 # Exploratory Analysis of Monkey Pox in MySQL
 
+## Description of Project Files
+- Monkey Pox Data Exploration in MySQL - An SQL file containing all the SQL queries for the Project
+- README.md - A file containing an overview, summary and description of the entire Project.
+
+
 ## Overview of Project
 The monkeypox virus causes monkeypox, an uncommon condition that resembles smallpox. Although it has been spotted in other parts of the world, it is primarily prevalent 
 in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis of the monkey pox outbreak with a dataset obtained from Kaggle.
