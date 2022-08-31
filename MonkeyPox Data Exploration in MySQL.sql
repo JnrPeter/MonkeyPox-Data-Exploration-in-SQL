@@ -111,7 +111,7 @@ SELECT
 FROM
     patient_info
 WHERE
-    Date_confirmation <> '0000-00-00'
+    Date_confirmation <> 0000-00-00
 GROUP BY 1
 ORDER BY 1
 
@@ -163,8 +163,8 @@ With time as (  SELECT
         patient_info
         WHERE
         status = 'confirmed'
-        AND Date_onset <> DATE(0000-00-00)
-        AND Date_confirmation <> DATE(0000-00-00)
+        AND Date_onset <> 0000-00-00
+        AND Date_confirmation <> 0000-00-00
              )
              
    SELECT AVG(time_delay) as average_time_delay
