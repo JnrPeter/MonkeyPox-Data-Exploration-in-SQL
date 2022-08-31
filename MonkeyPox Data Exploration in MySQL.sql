@@ -104,6 +104,16 @@ WHERE
 GROUP BY 1,2
 order BY 3 DESC
 
+-- How many cases are confirmed daily?
+
+SELECT 
+    Date_confirmation, COUNT(*) AS number_of_cases
+FROM
+    patient_info
+WHERE
+    Date_confirmation <> '0000-00-00'
+GROUP BY 1
+ORDER BY 1
 
 -- What is the most common symptom of monkey pox amongst people who have been confirmed with disease worldwide?
 
