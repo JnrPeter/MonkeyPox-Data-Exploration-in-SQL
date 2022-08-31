@@ -13,10 +13,10 @@ in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis
 
 ### SQL Queries were used to gain insights from the dataset using the questions below
 
-- What is total number of confirmed and suspected cases worldwide?
-- What is the number confirmed cases in each country?
-- What is the number of suspected cases in each country?
-- What is the number of Discarded cases in each country?
+- What are total number of confirmed,suspected and discarded cases worldwide?
+- What are the number confirmed cases in each country?
+- What are the number of suspected cases in each country?
+- What are the number of Discarded cases in each country?
 - What are the means confirmation of disease for countries with confirmed cases?
 - Find the number of times a method was used to confirm a diseases in each country.
 - What age ranges have been mostly confirmed with the disease?
