@@ -76,7 +76,7 @@ SELECT
 FROM
     patient_info
 WHERE
-    status = 'suspected'
+    status = 'confirmed'
         AND age <> 'Unknown'
 GROUP BY 1
 ORDER BY 2 DESC
