@@ -23,8 +23,8 @@ in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis
 - What age range have been most suspected to have the disease?
 - What common symptoms did people confirmed with the disease present with in each country?
 - How many cases are confirmed daily?
-- What is the most common symptom of monkey pox amongst people who have been confirmed with disease worldwide?
-- What are the most common symptoms of monkey pox amongst people who have been suspected with disease worldwide?
+- What are the common symptoms of monkey pox amongst people who have been confirmed with disease worldwide?
+- What are the common symptoms of monkey pox amongst people who have been suspected with disease worldwide?
 - In what month have most cases been confirmed? 
 - What is the average time delay between onset of monkey pox disease and confirmation of disease?
 - What are the number of people in each country that have been hospitalized?
