@@ -34,7 +34,7 @@ ORDER BY 2
 -- What are the number of Discarded cases in each country?
 
 SELECT 
-    Country, COUNT(*) AS number_confirmed_cases
+    Country, COUNT(*) AS number_discarded_cases
 FROM
     patient_info
 WHERE
