@@ -31,3 +31,8 @@ in parts of Africa. In this Project I perfromed an SQL Data Exploratory Analysis
 - Find the number of people in each country who have been suspected or confirmed with the disease who have been hospitalized
 - Find the number of people who have been suspected or confirmed with the disease who have been isolated in each country
 - What are the number of confirmed or suspected cases in each country who have a travel history ?
+
+## INSIGHTS
+The number of total cases is 1,132, with 920 of them being confirmed cases ,67 and 145 being suspected and discarded cases respectively. England and Spain have the highest number of confirmed and suspected cases respectively. The Reverse transcription Polymerase chain reaction (RT-PCR) is the most common method used for testing or confirming monkey pox across the infected countries. The analysis revealed that, the number of infected people between the ages of 20 to 64 are much higher than other age ranges. About 30 people worldwide suffered genital ulcer lesions as a common symptom but a significant number (826) of people suffered symptoms that are unknown. It was discovered that for a case of monkey pox the average time delay between onset of disease and confirmation is a period of about 12 days. The total number of people hospitalized and isolated, who have been suspected or confirmed are 62 and 127 respectively. The number of people who have suspected or confirmed of the disease with travel history are higher in the United States than the other countries.
+
+
