@@ -1,7 +1,7 @@
 # Exploratory Analysis of Monkey Pox in MySQL
 
 ## Description of Project Files
-- Monkey Pox Data Exploration in MySQL : An SQL file containing all the SQL queries for the Project
+- Monkey_Pox_Project.sql : An SQL file containing all the SQL queries for the Project
 - README.md : A file containing an overview, summary and description of the entire Project.
 - isolation_records.csv : The Monkeypox csv dataset,containing hospitalization and isolation records
 - patient_records.csv : The Monkeypox csv dataset,containing patient information
